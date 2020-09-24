@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="30.0dip" android:width="30.0dip" android:viewportWidth="141.0" android:viewportHeight="141.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ff3abbc9" android:pathData="M 70.5 0 C 109.436074863 0 141 31.5639251369 141 70.5 C 141 109.436074863 109.436074863 141 70.5 141 C 31.5639251369 141 0 109.436074863 0 70.5 C 0 31.5639251369 31.5639251369 0 70.5 0 Z" />
+    <path android:pathData="M97.74,45.37V95.63a7.1,7.1,0,0,1-7.1,7.1H57.26a7.1,7.1,0,0,1-7.1-7.1V92H54a3.84,3.84,0,1,0,0-7.67H50.17v-10H54a3.84,3.84,0,1,0,0-7.67H50.17v-10H54A3.84,3.84,0,1,0,54,49H50.17V45.37a7.1,7.1,0,0,1,7.1-7.1H90.64A7.1,7.1,0,0,1,97.74,45.37Z" android:strokeColor="#ffffffff" android:strokeWidth="3.0" android:strokeMiterLimit="10.0" />
+    <path android:pathData="M57.84,52.85A3.85,3.85,0,0,1,54,56.69H47.1a3.84,3.84,0,0,1,0-7.67H54A3.85,3.85,0,0,1,57.84,52.85Z" android:strokeColor="#ffffffff" android:strokeWidth="3.0" android:strokeMiterLimit="10.0" />
+    <path android:pathData="M57.84,88.15A3.85,3.85,0,0,1,54,92H47.1a3.84,3.84,0,0,1,0-7.67H54A3.85,3.85,0,0,1,57.84,88.15Z" android:strokeColor="#ffffffff" android:strokeWidth="3.0" android:strokeMiterLimit="10.0" />
+    <path android:pathData="M57.84,70.5A3.85,3.85,0,0,1,54,74.34H47.1a3.84,3.84,0,0,1,0-7.67H54A3.85,3.85,0,0,1,57.84,70.5Z" android:strokeColor="#ffffffff" android:strokeWidth="3.0" android:strokeMiterLimit="10.0" />
+    <path android:pathData="M64.83,85.66a1.7,1.7,0,0,1-1.68-1.94,14.2,14.2,0,0,1,28.13,0,1.7,1.7,0,0,1-1.68,1.94Z" android:strokeColor="#ffffffff" android:strokeWidth="3.0" android:strokeMiterLimit="10.0" />
+    <path android:pathData="M 77.21 55.34 C 80.601028364 55.34 83.35 58.088971636 83.35 61.48 C 83.35 64.871028364 80.601028364 67.62 77.21 67.62 C 73.818971636 67.62 71.07 64.871028364 71.07 61.48 C 71.07 58.088971636 73.818971636 55.34 77.21 55.34 Z" android:strokeColor="#ffffffff" android:strokeWidth="3.0" android:strokeMiterLimit="10.0" />
+</vector>
